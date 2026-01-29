@@ -1,16 +1,15 @@
-# window-operation-models-kth
+# Supplementary Material
+_Last updated: 29 Jan 2026_
 
-This repository contains supplementary data and coefficient tables related to the paper:
+This repository contains Supplementary Material related to the paper:
 
-> **"Energy Performance Impacts of Occupant-Driven Window Operation"**  
+> **"Assessing the Impact of Occupant Behavior on Residential Building Performance: A Case Study of Window Operation"**  
 > Mahsa Farjadnia, Angela Fontan, Marco Molinari, Karl Henrik Johansson  
-> _Manuscript submitted for publication, 2025._
+> _Manuscript submitted for publication, 2026._
 
 ## 📄 Overview
 
-The repository includes estimated intercepts and coefficients for occupant-driven window-opening and window-closing behavior models. These were developed using data from KTH Live-In Lab Apartments 2, 3, and 4 across different time periods (2020–2024).
-
-The data supports modeling and simulation of occupant behavior in relation to indoor environmental conditions and window usage.
+This supplementary material provides additional information on the experimental dataset, reports the parameters of the selected logistic regression models used in the IDA ICE–MATLAB co-simulation framework, and describes the detailed procedure for setting up IDA ICE–MATLAB co-simulations. It is provided to support the transparency and reproducibility of the results presented in the main manuscript.
 
 
 ## 📌 Citation
@@ -18,4 +17,4 @@ The data supports modeling and simulation of occupant behavior in relation to in
 If you use the data or coefficients from this repository, please cite the original manuscript:
 
 > Farjadnia, M., Fontan, A., Molinari, M., Johansson, K. H.  
-> “Energy performance impacts of occupant-driven window operation,” manuscript submitted for publication, 2025.
+> “Assessing the Impact of Occupant Behavior on Residential Building Performance: A Case Study of Window Operation,” manuscript submitted for publication, 2026.
