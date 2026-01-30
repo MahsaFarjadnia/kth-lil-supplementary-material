@@ -4,7 +4,7 @@ _Last updated: 29 Jan 2026_
 This repository contains Supplementary Material related to the paper:
 
 > **"Assessing the Impact of Occupant Behavior on Residential Building Performance: A Case Study of Window Operation"**  
-> Mahsa Farjadnia, Angela Fontan, Marco Molinari, Karl Henrik Johansson  
+> Mahsa Farjadnia, Angela Fontan, Karl Henrik Johansson, Marco Molinari  
 > _Manuscript submitted for publication, 2026._
 
 ## 📄 Overview
@@ -16,5 +16,5 @@ This supplementary material provides additional information on the experimental 
 
 If you use the data or coefficients from this repository, please cite the original manuscript:
 
-> Farjadnia, M., Fontan, A., Molinari, M., Johansson, K. H.  
+> Farjadnia, M., Fontan, A.,  Johansson, K. H, Molinari, M.  
 > “Assessing the Impact of Occupant Behavior on Residential Building Performance: A Case Study of Window Operation,” manuscript submitted for publication, 2026.
